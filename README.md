@@ -90,7 +90,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/em-usman/calculator-1.git
+  git clone https://github.com/em-usman/calculator.git
 ```
 
 
@@ -135,7 +135,7 @@ Press f5 to run the project.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/em-usman/calculator-1/issues).
+Feel free to check the [issues page](https://github.com/em-usman/calculator/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
